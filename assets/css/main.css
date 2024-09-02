@@ -77,7 +77,7 @@ input, select, textarea {
 	}
 
 	html {
-		background-color: #313a3d;
+		background-color: #a6ede2;
 		background-attachment: fixed,						fixed;
 		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-position: top left,					center center;
