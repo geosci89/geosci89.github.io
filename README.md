@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title> GeoSci89 </title>
+<title>GeoSci89</title>
 </head>
 
 <body>
