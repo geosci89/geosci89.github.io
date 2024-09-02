@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>Enter a title, displayed at the top of the window.</title>
+<title> GeoSci89 </title>
 </head>
 
 <body>
